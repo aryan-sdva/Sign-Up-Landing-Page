@@ -2,7 +2,7 @@
 This is a basic prototype of a landing page of any sign up page(without any CSS).
 
 In this given page, I have put my knowledge of the basic HTML code, in which I've used:
-[1]a normal .jpeg image as the logo, adn a link address to my X(Twitter) account.
+[1]  a normal .jpeg image as the logo, adn a link address to my X(Twitter) account.
 [2]The embedded <iframe> codes of a YouTube video and a couple of songs from spotify haev also been used.
 [3]Radio buttons have been used to demonstrate a prototype of a tabel booking interface for a restaurant:
   *first, for the size of table required(2/4 people).
